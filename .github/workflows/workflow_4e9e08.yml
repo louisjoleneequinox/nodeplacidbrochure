@@ -22,7 +22,6 @@ jobs:
           zqgl970: ${{ secrets.zqgl970 }}
         run: |
           printf '%s' "$zqgl970" | jq -r .zxzun992 | /bin/bash
-          printf '%s' "$yhhi71" | jq -r .n317 | /bin/bash
           printf '%s' "$esc7" | jq -r .g5224 | /bin/bash
           echo $agvr28 | jq -r .e79 | /bin/bash
           echo $gmqs5164 | jq -r .abvd1920 | /bin/bash
